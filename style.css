@@ -1,0 +1,245 @@
+body {
+  font-family: 'Outfit', sans-serif !important;
+  background-color: #f3e9dc;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+/* Navbar */
+.navbar {
+  position: fixed;
+  font-weight: 500;
+  transition: background 250ms ease-in;
+  background: var(--background);
+  z-index: 99999999;
+  animation: fall 1s forwards;
+  transform: translateY(-50vh);
+}
+
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+.nav-scrolled {
+  background-color: #72401c;
+  z-index: 999999999999;
+}
+
+
+/* Navbar End */
+.category a {
+  font-size: 1.4rem;
+  border-radius: 10px;
+}
+
+.home {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  background:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(img/hero.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
+
+}
+.fade-up {
+  animation: fade-up 1s;
+}
+@keyframes fade-up {
+  0% {
+    opacity: 0;
+    transform: translateY(30px) scale(0.9);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px) scale(1);
+  }
+}
+
+.word span {
+  display: inline-block;
+  font-size:calc(2.375rem + 2.5vw);
+  font-weight: 500;
+  animation: fall 1s forwards;
+}
+@keyframes fall{
+  0%{
+    transform: translatey(-25vh) scale(1);
+  }
+  100%{
+    transform: translatey(0) scale(1);
+  }
+}
+.word span:nth-child(2){
+  animation-delay: 0.1s;
+}
+.word span:nth-child(3){
+  animation-delay: 0.2s;
+}
+.word span:nth-child(4){
+  animation-delay: 0.3s;
+}
+.word span:nth-child(5){
+  animation-delay: 0.4s;
+}
+.word span:nth-child(6){
+  animation-delay: 0.5s;
+}
+.word span:nth-child(7){
+  animation-delay: 0.6s;
+}
+
+.shop_now {
+  background-color: transparent;
+  width: 8.6rem;
+  height: 3rem;
+  border: 2px solid white;
+  color: white;
+  transition: background 0.15s ease-in;
+}
+
+.shop_now:hover {
+  background-color: white;
+  color: #72401c;
+}
+
+.category {
+  width: 25rem;
+}
+
+.cat_coffee {
+  background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/Coffe/cappuccino.jpg);
+  height: 15rem;
+  width: 100%;
+  background-size: cover;
+  background-position: 1%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.cat_coffee:hover {
+  background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(img/Coffe/cappuccino.jpg);
+  background-size: cover;
+  background-position: 1%;
+}
+.cat_breakfast {
+  background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/Breakfast/pancake.jpg);
+  height: 15rem;
+  width: 100%;
+  background-size: cover;
+  background-position: 1%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.cat_breakfast:hover {
+  background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(img/Breakfast/pancake.jpg);
+  background-size: cover;
+  background-position: 1%;
+}
+.cat_drinks {
+  background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/Drinks/orange_juice.jpg); 
+  height: 15rem;
+  width: 100%;
+  background-size: cover;
+  background-position: 1%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.cat_drinks:hover {
+  background:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(img/Drinks/orange_juice.jpg);
+  background-size: cover;
+  background-position: 1%;
+}
+
+.product {
+  width: 20rem;
+  height: 33rem;
+  box-sizing: border-box;
+  text-align: center;
+  border-radius: 1.5rem;
+  background-color: #dac7bd;
+  text-decoration: none;
+  color: black;
+  transition: box-shadow 0.15s ease-in;
+}
+.product img {
+  width: 100%;
+  height: 65%;
+  object-fit: cover;
+  border-radius: 1.5rem;
+}
+.product:hover {
+  box-shadow: 0 0 20px gray;
+}
+
+/* Review */
+.review-body {
+  background:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),url(img/biji.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
+}
+
+.review {
+  display: flex;
+  align-items: center;
+}
+
+.card-body img {
+  width: 40px !important;
+  height: 40px !important;
+  border-radius: 50%;
+  object-fit: cover !important;
+}
+
+.card-body {
+  height: 20rem;
+}
+
+.owl-nav {
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  font-size: 2rem;
+  color: white;
+}
+
+/* Review End */
+
+/* Footer Start */
+footer {
+  background-color: #322c25;
+  border-top: 10px solid #72401c;
+  color: white;
+  list-style-type: none;
+  gap: 1.5rem;
+  overflow: hidden;
+}
+
+footer h2 {
+  color: #b06027;
+}
+
+.box {
+  padding: 5vw;
+}
+
+.view-guides {
+  padding: 5vw 4vh !important;
+}
+
+.copyright {
+  border-top: 1px solid white;
+  height: 2.5rem;
+}
+/* Footer End */

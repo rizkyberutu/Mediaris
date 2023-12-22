@@ -1,0 +1,110 @@
+[
+  {
+    "id":1,
+    "category":"coffee",
+    "name":"Cappuccino",
+    "price":"IDR 15.000",
+    "image":"/img/Coffe/cappuccino.jpg",
+    "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, voluptas. Iste odit fugiat adipisci maiores. Accusantium aut atque ratione nihil in explicabo voluptates temporibus sint ducimus reprehenderit? Quidem, inventore labore!",
+    "link":"https:gofood.co.id/en"
+  },
+  {
+    "id":2,
+    "category":"coffee",
+    "name":"Espresso",
+    "price":"IDR 15.000",
+    "image":"/img/Coffe/espresso.jpg",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum recusandae sit nobis, repudiandae dolorum qui perspiciatis veniam magnam vitae alias beatae tempora ratione omnis sapiente ipsa dicta dignissimos minus repellat?",
+    "link":"https:gofood.co.id/en"
+  },
+  {
+    "id":3,
+    "category":"coffee",
+    "name":"Latte",
+    "price":"IDR 13.000",
+    "image":"/img/Coffe/latte.jpg",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente omnis ex optio earum inventore aut nobis ipsa rerum quaerat esse cumque, ducimus reprehenderit eius dolor ut iusto ipsam quo itaque.",
+    "link":"https:gofood.co.id/en"
+  },
+  {
+    "id":4,
+    "category":"coffee",
+    "name":"Machiato",
+    "price":"IDR 15.000",
+    "image":"/img/Coffe/macchiato.jpg",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat nulla voluptatibus odio ipsa odit minus, quam ad illum expedita consequatur ut? Beatae illo fuga vel, quam dolorem sit id voluptate.",
+    "link":"https:gofood.co.id/en"
+  },
+  {
+    "id":5,
+    "category":"coffee",
+    "name":"Mocha",
+    "price":"IDR 13.000",
+    "image":"/img/Coffe/mocha.jpg",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis molestiae eligendi voluptatum nulla expedita dicta voluptatibus pariatur maxime neque doloribus perferendis, esse ab dolor rerum consequatur quod eius, reprehenderit omnis?",
+    "link":"https:gofood.co.id/en"
+  },
+  {
+    "id":6,
+    "category":"breakfast",
+    "name":"Croissant",
+    "price":"IDR 15.000",
+    "image":"/img/Breakfast/croissant.jpg",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt tempora doloremque aut nisi, laudantium vitae odio aspernatur voluptatum dolor, officia ipsam adipisci sint esse, eius ea culpa expedita rem assumenda.",
+    "link":"https:gofood.co.id/en"
+  },
+  {
+    "id":7,
+    "category":"breakfast",
+    "name":"Donut",
+    "price":"IDR 10.000",
+    "image":"/img/Breakfast/donut.jpg",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat nulla voluptatibus odio ipsa odit minus, quam ad illum expedita consequatur ut? Beatae illo fuga vel, quam dolorem sit id voluptate.",
+    "link":"https:gofood.co.id/en"
+  },
+  {
+    "id":8,
+    "category":"breakfast",
+    "name":"Pancake",
+    "price":"IDR 15.000",
+    "image":"/img/Breakfast/pancake.jpg",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente omnis ex optio earum inventore aut nobis ipsa rerum quaerat esse cumque, ducimus reprehenderit eius dolor ut iusto ipsam quo itaque.",
+    "link":"https:gofood.co.id/en"
+  },
+  {
+    "id":9,
+    "category":"breakfast",
+    "name":"Sandwich",
+    "price":"IDR 18.000",
+    "image":"/img/Breakfast/sandwich.jpg",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis molestiae eligendi voluptatum nulla expedita dicta voluptatibus pariatur maxime neque doloribus perferendis, esse ab dolor rerum consequatur quod eius, reprehenderit omnis?",
+    "link":"https:gofood.co.id/en"
+  },
+  {
+    "id":10,
+    "category":"drinks",
+    "name":"Banana Milkshake",
+    "price":"IDR 18.000",
+    "image":"/img/Drinks/Banana_Milkshake.jpg",
+    "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, voluptas. Iste odit fugiat adipisci maiores. Accusantium aut atque ratione nihil in explicabo voluptates temporibus sint ducimus reprehenderit? Quidem, inventore labore!",
+    "link":"https:gofood.co.id/en"
+  },
+  {
+    "id":11,
+    "category":"drinks",
+    "name":"Iced Tea",
+    "price":"IDR 18.000",
+    "image":"/img/Drinks/iced_tea.jpg",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt tempora doloremque aut nisi, laudantium vitae odio aspernatur voluptatum dolor, officia ipsam adipisci sint esse, eius ea culpa expedita rem assumenda.",
+    "link":"https:gofood.co.id/en"
+  },
+  {
+    "id":12,
+    "category":"drinks",
+    "name":"Orange Juice",
+    "price":"IDR 18.000",
+    "image":"/img/Drinks/orange_juice.jpg",
+    "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis molestiae eligendi voluptatum nulla expedita dicta voluptatibus pariatur maxime neque doloribus perferendis, esse ab dolor rerum consequatur quod eius, reprehenderit omnis?",
+    "link":"https:gofood.co.id/en"
+  }
+]

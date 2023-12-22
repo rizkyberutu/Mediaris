@@ -1,0 +1,66 @@
+body {
+  font-family: 'Outfit', sans-serif !important;
+  background-color: #f3e9dc !important;
+}
+
+a {
+  text-decoration: none !important;
+  color: white !important;
+}
+
+.navbar {
+  font-weight: 500;
+  background-color: #72401c;
+  animation: fall 1s forwards;
+  transform: translateY(-50vh);
+}
+@keyframes fall{
+  0%{
+    transform: translatey(-25vh) scale(1);
+  }
+  100%{
+    transform: translatey(0) scale(1);
+  }
+}
+
+.nav-link{
+  color: var(--bs-nav-link-color) !important;
+}
+
+.nav-link:hover {
+  text-decoration: underline !important;
+  color: rgba(255, 255, 255, 0.75)!important;
+}
+
+#map {
+  width: 100%;
+  height: 50vh;
+}
+
+/* Footer Start */
+footer {
+  background-color: #322c25;
+  border-top: 10px solid #72401c;
+  color: white;
+  list-style-type: none;
+  gap: 1.5rem;
+  overflow: hidden;
+}
+
+footer h2 {
+  color: #b06027;
+}
+
+.box {
+  padding: 5vw;
+}
+
+.view-guides {
+  padding: 5vw 4vh !important;
+}
+
+.copyright {
+  border-top: 1px solid white;
+  height: 2.5rem;
+}
+/* Footer End */
