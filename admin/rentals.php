@@ -145,25 +145,25 @@ if(!isset($_SESSION['username'])){
                                 <table id="datatablesSimple">
                                     <thead>
                                         <tr>
+                                            <th>Rental_Id</th>
                                             <th>Customer_Id</th>
-                                            <th>Full Name</th>
-                                            <th>Email</th>
-                                            <th>Username</th>
-                                            <th>Password</th>
-                                            <th>Phone</th>
-                                            <th>Address</th>
+                                            <th>Rental_Date</th>
+                                            <th>Return_Date</th>
+                                            <th>Total Cost</th>
+                                            <th>Status</th>
+                                            <th>Item_Id</th>
                                             <th>Action</th>
                                         </tr>
                                     </thead>
                                     <tfoot>
                                         <tr>
+                                        <th>Rental_Id</th>
                                             <th>Customer_Id</th>
-                                            <th>Full Name</th>
-                                            <th>Email</th>
-                                            <th>Username</th>
-                                            <th>Password</th>
-                                            <th>Phone</th>
-                                            <th>Address</th>
+                                            <th>Rental_Date</th>
+                                            <th>Return_Date</th>
+                                            <th>Total Cost</th>
+                                            <th>Status</th>
+                                            <th>Item_Id</th>
                                             <th>Action</th>
                                         </tr>
                                     </tfoot>
@@ -183,7 +183,7 @@ if(!isset($_SESSION['username'])){
                                             <td> <?php echo $d['item_id'] ?></td>
                                             <td> <?php echo $d['action'] ?></td>
                                             <td>
-                                            <a href="edit_customers.php?customer_id=<?php echo $d['customer_id']; ?>" >edit</a>
+                                            <a href="eapprove.php?customer_id=<?php echo $d['customer_id']; ?>" >approve</a>
                                             <a href="delete_customers.php?customer_id=<?php echo $d['customer_id']; ?>" onclick="return confirm('Yakin Hapus?')">hapus</a>
                                             </td>
                                         </tr>
