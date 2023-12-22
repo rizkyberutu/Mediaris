@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "brand": "Canon",
+    "name": "EOS R100 RF",
+    "price": "IDR 15.000",
+    "image": "/img/canon/canon-EOS R100 RF-S18-45mm f-4.5-6.3 IS STM.jpg",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, voluptas. Iste odit fugiat adipisci maiores. Accusantium aut atque ratione nihil in explicabo voluptates temporibus sint ducimus reprehenderit? Quidem, inventore labore!",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 2,
+    "brand": "Sony",
+    "name": "Sony A7CR",
+    "price": "IDR 15.000",
+    "image": "/img/sony/sony-a7cr.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum recusandae sit nobis, repudiandae dolorum qui perspiciatis veniam magnam vitae alias beatae tempora ratione omnis sapiente ipsa dicta dignissimos minus repellat?",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 3,
+    "brand": "Fujifilm",
+    "name": "Fujifilm X100V",
+    "price": "IDR 13.000",
+    "image": "/img/fujifilm/fujifilm -X100V-camera.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente omnis ex optio earum inventore aut nobis ipsa rerum quaerat esse cumque, ducimus reprehenderit eius dolor ut iusto ipsam quo itaque.",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 4,
+    "brand": "Leica",
+    "name": "Leica-M10-P Ghost Edition for HODINKEE",
+    "price": "IDR 15.000",
+    "image": "/img/leica/Leica-M10-P Ghost Edition for HODINKEE.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat nulla voluptatibus odio ipsa odit minus, quam ad illum expedita consequatur ut? Beatae illo fuga vel, quam dolorem sit id voluptate.",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 5,
+    "brand": "Lens",
+    "name": "Sony SEL2070G",
+    "price": "IDR 13.000",
+    "image": "/img/sony/lensa-sony-sel2070g.avif",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis molestiae eligendi voluptatum nulla expedita dicta voluptatibus pariatur maxime neque doloribus perferendis, esse ab dolor rerum consequatur quod eius, reprehenderit omnis?",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 6,
+    "brand": "Tripod",
+    "name": "Manfrotto - Mvk500190xv",
+    "price": "IDR 15.000",
+    "image": "/img/tripod/video-kit-manfrotto-video-system-mvk500190xv.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt tempora doloremque aut nisi, laudantium vitae odio aspernatur voluptatum dolor, officia ipsam adipisci sint esse, eius ea culpa expedita rem assumenda.",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 7,
+    "brand": "Sony",
+    "name": "Sony A6700",
+    "price": "IDR 10.000",
+    "image": "/img/sony/sony-a6700jpg.avif",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat nulla voluptatibus odio ipsa odit minus, quam ad illum expedita consequatur ut? Beatae illo fuga vel, quam dolorem sit id voluptate.",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 8,
+    "brand": "Canon",
+    "name": "Canon-EOS200D",
+    "price": "IDR 15.000",
+    "image": "/img/canon/Canon-EOS200D.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente omnis ex optio earum inventore aut nobis ipsa rerum quaerat esse cumque, ducimus reprehenderit eius dolor ut iusto ipsam quo itaque.",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 9,
+    "brand": "Fujifilm",
+    "name": "Fujifilm GFX100s",
+    "price": "IDR 18.000",
+    "image": "/img/fujifilm/Fujifilm-gfx100s.webp",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis molestiae eligendi voluptatum nulla expedita dicta voluptatibus pariatur maxime neque doloribus perferendis, esse ab dolor rerum consequatur quod eius, reprehenderit omnis?",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 10,
+    "brand": "Leica",
+    "name": "Leica Q2 Disney 100 Years of Wonder",
+    "price": "IDR 18.000",
+    "image": "/img/leica/Leica Q2-Disney-100 Years of Wonder.jpg",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, voluptas. Iste odit fugiat adipisci maiores. Accusantium aut atque ratione nihil in explicabo voluptates temporibus sint ducimus reprehenderit? Quidem, inventore labore!",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 11,
+    "brand": "Tripod",
+    "name": "Gimbal - Manfrotto MVG220",
+    "price": "IDR 18.000",
+    "image": "/img/tripod/gimbal-manfrotto-mvg220.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt tempora doloremque aut nisi, laudantium vitae odio aspernatur voluptatum dolor, officia ipsam adipisci sint esse, eius ea culpa expedita rem assumenda.",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 12,
+    "brand": "Lens",
+    "name": "Canon LCN26876",
+    "price": "IDR 18.000",
+    "image": "/img/canon/lensa-canon-LCN26876_Canon_EF_M32mm_f1.4_STM_D2.webp",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt tempora doloremque aut nisi, laudantium vitae odio aspernatur voluptatum dolor, officia ipsam adipisci sint esse, eius ea culpa expedita rem assumenda.",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 13,
+    "brand": "Sony",
+    "name": "Sony ZV-E1",
+    "price": "IDR 18.000",
+    "image": "/img/sony/sony-ZV-E1.avif",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt tempora doloremque aut nisi, laudantium vitae odio aspernatur voluptatum dolor, officia ipsam adipisci sint esse, eius ea culpa expedita rem assumenda.",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 14,
+    "brand": "Canon",
+    "name": "Canon-EOS6D",
+    "price": "IDR 18.000",
+    "image": "/img/canon/Canon-EOS6D.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt tempora doloremque aut nisi, laudantium vitae odio aspernatur voluptatum dolor, officia ipsam adipisci sint esse, eius ea culpa expedita rem assumenda.",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 15,
+    "brand": "Tripod",
+    "name": "MK290XTA3-2W",
+    "price": "IDR 18.000",
+    "image": "/img/tripod/mk290xta3-2w.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt tempora doloremque aut nisi, laudantium vitae odio aspernatur voluptatum dolor, officia ipsam adipisci sint esse, eius ea culpa expedita rem assumenda.",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 16,
+    "brand": "Fujifilm",
+    "name": "Fujifilm XS20",
+    "price": "IDR 18.000",
+    "image": "/img/fujifilm/fujifilm-xs20.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt tempora doloremque aut nisi, laudantium vitae odio aspernatur voluptatum dolor, officia ipsam adipisci sint esse, eius ea culpa expedita rem assumenda.",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 17,
+    "brand": "Tripod",
+    "name": "Manfrotto-Mvk612",
+    "price": "IDR 18.000",
+    "image": "/img/tripod/video-kit-manfrotto-mvk612twinfc-kit-nobag.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt tempora doloremque aut nisi, laudantium vitae odio aspernatur voluptatum dolor, officia ipsam adipisci sint esse, eius ea culpa expedita rem assumenda.",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 18,
+    "brand": "Lens",
+    "name": "Fuji - GF23mmf4",
+    "price": "IDR 18.000",
+    "image": "/img/fujifilm/lensa-fuji-gf23mmf4-r-lm-wr_anim_00.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt tempora doloremque aut nisi, laudantium vitae odio aspernatur voluptatum dolor, officia ipsam adipisci sint esse, eius ea culpa expedita rem assumenda.",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 19,
+    "brand": "Tripod",
+    "name": "Manfrotto-MVG460",
+    "price": "IDR 18.000",
+    "image": "/img/tripod/gimbal-manfrotto-mvg460.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt tempora doloremque aut nisi, laudantium vitae odio aspernatur voluptatum dolor, officia ipsam adipisci sint esse, eius ea culpa expedita rem assumenda.",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 20,
+    "brand": "Lens",
+    "name": "SL2 - Summicorn50",
+    "price": "IDR 18.000",
+    "image": "/img/leica/leica_sl2_summicorn50.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt tempora doloremque aut nisi, laudantium vitae odio aspernatur voluptatum dolor, officia ipsam adipisci sint esse, eius ea culpa expedita rem assumenda.",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 21,
+    "brand": "Tripod",
+    "name": "MK055XPRO3-BHQ2",
+    "price": "IDR 18.000",
+    "image": "/img/tripod/mk055xpro3-bhq2.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt tempora doloremque aut nisi, laudantium vitae odio aspernatur voluptatum dolor, officia ipsam adipisci sint esse, eius ea culpa expedita rem assumenda.",
+    "link": "https://gofood.co.id/en"
+  },
+  {
+    "id": 22,
+    "brand": "Leica",
+    "name": "Leica SL2 + Summicorn50",
+    "price": "IDR 18.000",
+    "image": "/img/leica/leica_sl2_summicorn50.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis molestiae eligendi voluptatum nulla expedita dicta voluptatibus pariatur maxime neque doloribus perferendis, esse ab dolor rerum consequatur quod eius, reprehenderit omnis?",
+    "link": "https://gofood.co.id/en"
+  }
+]
